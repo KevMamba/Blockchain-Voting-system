@@ -24,5 +24,5 @@ Installation Instructions
  5) Create another folder
        - run npx create-react-app nameofapp.
        - place index.js into src directory.
-       - run using npm start.
+       - run using npm start (do this in src directory).
       
