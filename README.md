@@ -5,7 +5,8 @@ Technologies used :
 1) Soidity - to define contract structure
 2) Web3.py and Flask for backend and interaction with blockchain
 3) React for front end
-
+4) Backend uses RestApi
+5) Front end uses periodic refresh ajax technique
 
 Installation Instructions
 
