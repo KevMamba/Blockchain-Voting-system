@@ -11,3 +11,8 @@ Technologies used :
 - Block chain files are Election.sol, Migrations.sol written in solidity to create a blockchain.
 - Backend uses FlaskBackEnd.py uses flask and rest api.
 - Frontend files are in the reactscripts folder
+
+Team Members (section A)
+- Akhilarka Jayanthi          PES1201700050
+- Atul Anand Gopalkrishnan    PES1201701452
+- Kevin Arulraj               PES1201700659
